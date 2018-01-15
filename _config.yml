@@ -698,7 +698,7 @@ css: assets/css
 js: assets/js
 images: assets/images
 
-avatar: avatar.jpeg
+avatar: /source/avatar.jpeg
 
 # Theme version
 version: 5.1.1
