@@ -1,3 +1,10 @@
+---
+title: 数据结构之LinkedList
+tags: [数据结构]
+categories: "算法与数据结构"
+author: yip6
+---
+
 ####  什么是LinkedList  ####
 链表（Linked list）是一种常见的基础数据结构，是一种线性表，但是并不会按线性的顺序存储数据，而是在每一个节点里存到下一个节点的指针(Pointer)。
 #### 如何实现LinkedList ####
